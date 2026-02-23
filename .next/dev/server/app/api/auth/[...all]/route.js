@@ -1,0 +1,13 @@
+var R=require("../../../../chunks/[turbopack]_runtime.js")("server/app/api/auth/[...all]/route.js")
+R.c("server/chunks/06951_59c07856._.js")
+R.c("server/chunks/06951_next_dist_51f3c3cf._.js")
+R.c("server/chunks/06951_better-auth_dist_329dddf8._.js")
+R.c("server/chunks/06951_jose_dist_webapi_7e518860._.js")
+R.c("server/chunks/06951_@better-auth_core_dist_e74ed65d._.js")
+R.c("server/chunks/06951_zod_51ee51f0._.js")
+R.c("server/chunks/06951_kysely_dist_esm_5478a68f._.js")
+R.c("server/chunks/[root-of-the-server]__0f2a7d67._.js")
+R.c("server/chunks/[root-of-the-server]__f21df0e2._.js")
+R.c("server/chunks/mystery-santa__next-internal_server_app_api_auth_[___all]_route_actions_1388262b.js")
+R.m("[project]/mystery-santa/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/mystery-santa/app/api/auth/[...all]/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)")
+module.exports=R.m("[project]/mystery-santa/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/mystery-santa/app/api/auth/[...all]/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)").exports
