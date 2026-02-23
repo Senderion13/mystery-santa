@@ -1,0 +1,5 @@
+[00:00:00.868] Server  LOG     ✓ Ready in 676ms
+[00:00:02.391] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:45.007] Server  WARN    2026-02-21T20:22:23.498Z WARN [Better Auth]: [better-auth] Base URL could not be determined. Please set a valid base URL using the baseURL config option or the BETTER_AUTH_BASE_URL environment variable. Without this, callbacks and redirects may not work correctly.
+[00:00:45.840] Server  ERROR   2026-02-21T20:22:24.161Z ERROR [Better Auth]: Error Error: connect ECONNREFUSED 127.0.0.1:5432
+[00:00:45.918] Server  ERROR   # SERVER_ERROR:  Error: connect ECONNREFUSED 127.0.0.1:5432
